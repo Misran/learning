@@ -1,0 +1,7 @@
+1.create a file :
+   |- mkdir "filename"   --- in the git installing file create a file
+   |- cd "filename" ---change workingspace to "filename"
+   |- pwsd ---check the current file
+2.add a file to the reposity
+   |-1. git add "filename" ---will add some file
+   |-2. git commit -m "introduction" ----after adding all file commit 
